@@ -37,8 +37,8 @@ Executable original files:
 Sdelete v2.0.5+ BUGGY:
 ======================
 
-	- https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete
-	- https://download.sysinternals.com/files/SDelete.zip
+- https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete
+- https://download.sysinternals.com/files/SDelete.zip
 
 Sdelete v1.61 available somewhere in here:
 ==========================================
@@ -47,7 +47,7 @@ Sdelete v1.61 available somewhere in here:
 	Copyright (C) 1999-2012 Mark Russinovich
 	Sysinternals - www.sysinternals.com
 
-	- https://web.archive.org/web/20120815000000*/https://download.sysinternals.com/files/
+- https://web.archive.org/web/20120815000000*/https://download.sysinternals.com/files/
 
 
 
