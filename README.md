@@ -50,4 +50,12 @@ Sdelete v1.61 available somewhere in here:
 - https://web.archive.org/web/20120815000000*/https://download.sysinternals.com/files/
 
 
+Sdelete v1.6 (Older version):
+=============================
+
+	SDelete - Secure Delete v1.6
+	Copyright (C) 1999-2010 Mark Russinovich
+	Sysinternals - www.sysinternals.com
+
+- https://web.archive.org/web/20120113134534/http://download.sysinternals.com/Files/SDelete.zip
 
