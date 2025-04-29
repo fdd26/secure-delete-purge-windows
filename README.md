@@ -9,9 +9,9 @@ Once this is done, you should still mechanically crush the hard drive, if possib
 File lists:
 =============
 
-	- sdelete-v161.exe - Only this older executable version 1.61 actually works properly on recent Windows Server, since v2.00 is buggy and crash.
-	- destroy_permissions.bat - Use this VERY carefully !!! This will destroy any permissions that will prevent you from deleting files or folders on Windows Server.
-	- del_1.bat - Delete the sub-folder named ".\1\" recursively in an infinite loop until everything is deleted.
+- sdelete-v161.exe - Only this older executable version 1.61 actually works properly on recent Windows Server, since v2.00 is buggy and crash.
+- destroy_permissions.bat - Use this VERY carefully !!! This will destroy any permissions that will prevent you from deleting files or folders on Windows Server.
+- del_1.bat - Delete the sub-folder named ".\1\" recursively in an infinite loop until everything is deleted.
 
 How to use:
 =============
@@ -43,9 +43,9 @@ Sdelete v2.0.5+ BUGGY:
 Sdelete v1.61 available somewhere in here:
 ==========================================
 
-SDelete - Secure Delete v1.61
-Copyright (C) 1999-2012 Mark Russinovich
-Sysinternals - www.sysinternals.com
+	SDelete - Secure Delete v1.61
+	Copyright (C) 1999-2012 Mark Russinovich
+	Sysinternals - www.sysinternals.com
 
 	- https://web.archive.org/web/20120815000000*/https://download.sysinternals.com/files/
 
