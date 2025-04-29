@@ -3,7 +3,7 @@
 
 :DirExists
 
-sdelete-v166.exe -p 3 -s 1\*
+sdelete-v161.exe -p 3 -s 1\*
 
 rmdir /q 1
 
